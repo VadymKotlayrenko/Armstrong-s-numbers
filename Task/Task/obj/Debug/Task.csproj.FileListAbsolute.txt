@@ -1,0 +1,12 @@
+D:\курси C#\Task\Task\bin\Debug\Task.exe.config
+D:\курси C#\Task\Task\bin\Debug\Task.exe
+D:\курси C#\Task\Task\bin\Debug\Task.pdb
+D:\курси C#\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+D:\курси C#\Task\Task\obj\Debug\Task.exe
+D:\курси C#\Task\Task\obj\Debug\Task.pdb
+C:\Users\Zver\Desktop\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Zver\Desktop\Task\Task\obj\Debug\Task.exe
+C:\Users\Zver\Desktop\Task\Task\obj\Debug\Task.pdb
+C:\Users\Zver\Desktop\Task\Task\bin\Debug\Task.exe
+C:\Users\Zver\Desktop\Task\Task\bin\Debug\Task.pdb
+C:\Users\Zver\Desktop\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
